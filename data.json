@@ -1,0 +1,20 @@
+[
+    {
+        "firstname": "User firstname",
+        "lastname": "User lastname",
+        "email": "user1@google.com",
+        "location": ["NJ", "NY", "FL"],
+        "phone": "98888999999",
+        "batch": "UI",
+        "address": {
+            "communication": "Google, NY",
+            "permanent": "Google, CA"
+        },
+        "previous employer": {
+            "google": "Computer Programmer",
+            "facebook": "Front end Developer",
+            "linkedIn": "Software Engineer "
+        }
+
+    }
+]
